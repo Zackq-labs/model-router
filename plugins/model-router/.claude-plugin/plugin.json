@@ -1,0 +1,9 @@
+{
+  "name": "model-router",
+  "version": "0.1.0",
+  "description": "Sends simple read-only turns (status, summaries, lookups) to a cheaper model; everything else stays on the main model",
+  "author": {
+    "name": "zackq-labs"
+  },
+  "license": "MIT"
+}

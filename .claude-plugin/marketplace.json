@@ -1,0 +1,8 @@
+{
+  "name": "zackq-labs",
+  "owner": { "name": "zackq-labs" },
+  "description": "Claude Code mods by zackq-labs",
+  "plugins": [
+    { "name": "model-router", "source": "./plugins/model-router" }
+  ]
+}
